@@ -1,0 +1,23 @@
+{
+  "name": "techbookfest-microinteractions-sample",
+  "version": "1.0.0",
+  "description": "技術書典5の書籍でご紹介したマイクロインタラクションのサンプル",
+  "main": "index.js",
+  "scripts": {
+    "start": "http-server -o",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cawpea/techbookfest-microinteractions-sample.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cawpea/techbookfest-microinteractions-sample/issues"
+  },
+  "homepage": "https://github.com/cawpea/techbookfest-microinteractions-sample#readme",
+  "devDependencies": {
+    "http-server": "^0.11.1"
+  }
+}
